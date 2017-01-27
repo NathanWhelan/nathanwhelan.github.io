@@ -1,3 +1,5 @@
+This future website is currently a work in progress!
+
 Agency Jekyll theme
 ====================
 
