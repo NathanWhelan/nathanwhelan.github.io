@@ -15,38 +15,16 @@ color:
   
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Nathan Whelan
   pic: 1
-  position: Lead Designer
+  position: Director
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/polarfire
     - title: google-plus
-      url: #
+      url: https://scholar.google.com/citations?hl=en&user=KQ9B0csAAAAJ
+    - title: github
+      url: https://github.com/NathanWhelan/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
