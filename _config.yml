@@ -8,9 +8,9 @@ description: "Nathan Whelan's Research Page."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  link: CBA72B
-  primary: fed136
-  secondary: fec503 
+  link: 1062ee
+  primary: 1e60d2
+  secondary: 3173e3 
   secondary-dark: 000
   
 # Team names, titles and social links
