@@ -27,11 +27,13 @@ p.large {
     font-size: 16px;
 }
 
-h.m {
+hm {
+    font-family: {{ site.data.template.font.primary }};
     font-size: 25px;
 }
 
-h.s {
+hs {
+    font-family: {{ site.data.template.font.primary }};
     font-size: 20px;
 }
 
