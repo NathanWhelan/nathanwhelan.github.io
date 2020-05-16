@@ -27,6 +27,14 @@ p.large {
     font-size: 16px;
 }
 
+h.medium {
+    font-size: 25px;
+}
+
+h.small {
+    font-size: 20px;
+}
+
 a,
 a:hover,
 a:focus,
@@ -669,7 +677,7 @@ section#contact .section-heading {
 
 section#contact .section-explanation {
     color: #fff;
-    text-transform: none; 
+    text-transform: none;
 }
 
 section#contact .form-group {
