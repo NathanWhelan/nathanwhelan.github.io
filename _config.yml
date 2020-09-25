@@ -1,4 +1,4 @@
-url: https://y7kim.github.io
+url: https://nathanwhelan.com
 baseurl: ''
 
 # Site settings
@@ -17,7 +17,8 @@ color:
 people:
 - name: Nathan Whelan
   pic: Whelan
-  position: Director
+  position: Lab Director and Principal Investigator
+  description: CV available <a href="/assets/Whelan_CV_website.pdf">here</a>.
   social:
     - title: twitter
       url: https://twitter.com/polarfire
@@ -25,6 +26,14 @@ people:
       url: https://scholar.google.com/citations?hl=en&user=KQ9B0csAAAAJ
     - title: github
       url: https://github.com/NathanWhelan/
+
+- name: Ashnantye' Williams
+  pic: Ashantye
+  position: Lab Manager
+  description: Conservation genomics and genetic management of aquatic organisms.
+  social:
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=6QPWdO8AAAAJ&hl=en&oi=ao
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -37,8 +46,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 5308 Spring ST
-  - line: Warm Springs, GA 31830
+  - line: 203 Swingle Hall
+  - line: Auburn, AL 36801
 
 # Build settings
 markdown: kramdown
