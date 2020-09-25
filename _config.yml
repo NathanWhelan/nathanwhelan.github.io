@@ -27,13 +27,36 @@ people:
     - title: github
       url: https://github.com/NathanWhelan/
 
-- name: Ashnantye' Williams
+- name: Ashantye' Williams
   pic: Ashantye
   position: Lab Manager
   description: Conservation genomics and genetic management of aquatic organisms.
   social:
     - title: google-plus
       url: https://scholar.google.com/citations?user=6QPWdO8AAAAJ&hl=en&oi=ao
+      
+- name: Nick Gladstone
+  pic: Gladstone
+  position: Ph.D. Student
+  description: Evolution of life history behaviors and shell shape in freshwater gastropods. See more <a href="https://nsgladstone.weebly.com/">here</a>.  
+  social:
+    - title: twitter
+      url: https://twitter.com/gladstone_scott
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=Z1u8U34AAAAJ&hl=en&oi=sra
+      
+- name: Nicole Garrison (alum)
+  pic: Garrison
+  position: Postdoc
+  description: Conservation genomics of freshwater mussels. See more <a href="https://westliberty.edu/biology/faculty/nicole-garrison/">here</a>.  
+  social:
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=wkOzAwgAAAAJ&hl=en&oi=ao
+
+- name: Aaliyah Wright (alum)
+  pic: Wright
+  position: Undergraduate Researcher (2019 REU Student)
+  description: Conservation genomics of <i>Leptoxis compacta</i>.   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
