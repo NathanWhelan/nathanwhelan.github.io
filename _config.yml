@@ -20,12 +20,12 @@ people:
   position: Lab Director and Principal Investigator
   description: CV available <a href="/assets/Whelan_CV_website.pdf">here</a>.
   social:
-    - title: twitter
-      url: https://twitter.com/polarfire
-    - title: google-plus
-      url: https://scholar.google.com/citations?hl=en&user=KQ9B0csAAAAJ
-    - title: github
-      url: https://github.com/NathanWhelan/
+    - url: https://twitter.com/polarfire
+      icon: fab fa-twitter
+    - url: https://scholar.google.com/citations?hl=en&user=KQ9B0csAAAAJ
+      icon: fab fa-google
+    - url: https://github.com/NathanWhelan/
+      icon: fab fa-github
 
 - name: Ashantye' Williams
   pic: Ashantye
