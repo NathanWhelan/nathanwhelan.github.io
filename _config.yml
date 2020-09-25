@@ -22,10 +22,6 @@ people:
   social:
     - url: https://twitter.com/polarfire
       icon: fab fa-twitter
-    - url: https://scholar.google.com/citations?hl=en&user=KQ9B0csAAAAJ
-      icon: fab fa-google
-    - url: https://github.com/NathanWhelan/
-      icon: fab fa-github
 
 - name: Ashantye' Williams
   pic: Ashantye
