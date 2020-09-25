@@ -21,7 +21,7 @@ people:
   description: CV available <a href="/assets/Whelan_CV_website.pdf">here</a>.
   social:
     - url: https://twitter.com/polarfire
-      icon: fab fa-twitter
+      icon: fab fa-twitter-square
 
 - name: Ashantye' Williams
   pic: Ashantye
