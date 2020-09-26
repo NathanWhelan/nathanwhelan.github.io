@@ -18,7 +18,7 @@ people:
 - name: Nathan Whelan
   pic: Whelan
   position: Lab Director and Principal Investigator
-  description: CV available <a href="/assets/Whelan_CV_website.pdf">here</a>.
+  description: CV available <a href="/assests/Whelan_CV_website.pdf">here</a>.
   social:
     - title: twitter
       url: https://twitter.com/polarfire
@@ -37,7 +37,7 @@ people:
 - name: Nick Gladstone
   pic: Gladstone
   position: Ph.D. Student
-  description: Evolution of life history behaviors and shell shape in freshwater gastropods. See more <a href="https://nsgladstone.weebly.com/">here</a>.  
+  description: Evolution of life history behaviors and shell shape in freshwater gastropods. Visit Nick's website <a href="https://nsgladstone.weebly.com/">here</a>.  
   social:
     - title: twitter
       url: https://twitter.com/gladstone_scott
@@ -47,7 +47,7 @@ people:
 - name: Nicole Garrison (alum)
   pic: Garrison
   position: Postdoc
-  description: Conservation genomics of freshwater mussels. See more <a href="https://westliberty.edu/biology/faculty/nicole-garrison/">here</a>.  
+  description: Conservation genomics of freshwater mussels. Visit Nicole's website <a href="https://westliberty.edu/biology/faculty/nicole-garrison/">here</a>.  
   social:
     - title: google-plus
       url: https://scholar.google.com/citations?user=wkOzAwgAAAAJ&hl=en&oi=ao
