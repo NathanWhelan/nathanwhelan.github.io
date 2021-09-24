@@ -1,6 +1,8 @@
 url: https://nathanwhelan.com
 baseurl: ''
 
+encoding: UTF-8
+
 # Site settings
 title: "Nathan's Research"
 email: nathan.whelan@gmail.com
