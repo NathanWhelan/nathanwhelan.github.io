@@ -28,7 +28,7 @@ people:
       url: https://scholar.google.com/citations?user=KQ9B0csAAAAJ&hl=en&oi=ao
     - title: https://github.com/NathanWhelan/
 
-- name: Ashantye' Williams
+- name: Ashantye' Williams (alum)
   pic: Ashantye
   position: Lab Manager
   description: Conservation genomics and genetic management of aquatic organisms.
@@ -36,9 +36,9 @@ people:
     - title: google-plus
       url: https://scholar.google.com/citations?user=6QPWdO8AAAAJ&hl=en&oi=ao
       
-- name: Nick Gladstone
+- name: Nick Gladstone (alum)
   pic: Gladstone
-  position: Ph.D. Student
+  position: Masters Student
   description: Evolution of life history behaviors and shell shape in freshwater gastropods. Visit Nick's website <a href="https://nsgladstone.weebly.com/">here</a>.  
   social:
     - title: twitter
