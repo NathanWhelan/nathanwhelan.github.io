@@ -43,6 +43,7 @@ people:
   description: Population and Conservation Genomics of Brook Floater
   social:
     - title: google-plus
+      url: https://nathanwhelan.com/#team
 
 - name: Raquel Gonzalez
   pic: Gonzalez
@@ -50,6 +51,7 @@ people:
   description: Conservation genomics and genetics management of Alabama Pearlshell
   social:
     - title: google-plus
+      url: https://nathanwhelan.com/#team
 
 - name: Ashantye' Williams (alum)
   pic: Ashantye
@@ -85,6 +87,7 @@ people:
   description: Conservation genomics of <i>Leptoxis compacta</i>.   
   social:
     - title: google-plus
+      url: https://nathanwhelan.com/#team
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
