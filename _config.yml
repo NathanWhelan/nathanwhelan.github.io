@@ -26,7 +26,26 @@ people:
       url: https://twitter.com/polarfire
     - title: google-plus
       url: https://scholar.google.com/citations?user=KQ9B0csAAAAJ&hl=en&oi=ao
-    - title: https://github.com/NathanWhelan/
+    - title: github
+      url: https://github.com/NathanWhelan/
+
+- name: Sam Donohoo
+  pic: Donohoo
+  position: PhD Student
+  description: Evolution and Sysetmatics of Molluscs.
+  social:
+    - title: google-plus
+    - url: https://scholar.google.com/citations?user=RuSqbd4AAAAJ&hl=en
+
+- name: Mia Adcock
+  pic: Adcock
+  position: Masters Student
+  description: Population and Conservation Genomics of Brook Floater
+
+- name: Raquel Gonzalez
+  pic: Gonzalez
+  position: Former USFWS Directorate Fellow. Current undergraduate researcher.
+  description: Conservation genomics and genetics management of Alabama Pearlshell
 
 - name: Ashantye' Williams (alum)
   pic: Ashantye
@@ -45,6 +64,8 @@ people:
       url: https://twitter.com/gladstone_scott
     - title: google-plus
       url: https://scholar.google.com/citations?user=Z1u8U34AAAAJ&hl=en&oi=sra
+    - title: github
+      url: https://github.com/ngladstone/
       
 - name: Nicole Garrison (alum)
   pic: Garrison
