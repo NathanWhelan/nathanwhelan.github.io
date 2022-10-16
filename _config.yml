@@ -41,11 +41,15 @@ people:
   pic: Adcock
   position: Masters Student
   description: Population and Conservation Genomics of Brook Floater
+  social:
+    - title: google-plus
 
 - name: Raquel Gonzalez
   pic: Gonzalez
   position: Former USFWS Directorate Fellow. Current undergraduate researcher.
   description: Conservation genomics and genetics management of Alabama Pearlshell
+  social:
+    - title: google-plus
 
 - name: Ashantye' Williams (alum)
   pic: Ashantye
@@ -79,6 +83,8 @@ people:
   pic: Wright
   position: Undergraduate Researcher (2019 REU Student)
   description: Conservation genomics of <i>Leptoxis compacta</i>.   
+  social:
+    - title: google-plus
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
