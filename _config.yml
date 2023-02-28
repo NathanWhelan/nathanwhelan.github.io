@@ -29,6 +29,14 @@ people:
     - title: github
       url: https://github.com/NathanWhelan/
 
+- name: Austin Hannah
+  pic: Hannah
+  position: Lab Manager
+  description: Conservation genomics and hatchery program evaluation.
+  social:
+    - title: google-plus
+      url: url: https://nathanwhelan.com/#team
+
 - name: Sam Donohoo
   pic: Donohoo
   position: PhD Student
