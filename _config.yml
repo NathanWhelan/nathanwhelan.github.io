@@ -49,10 +49,7 @@ people:
   pic: Krause
   position: PhD Student
   description: Fish Health and Mussel Genomics
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
-
+  
 - name: Elizabeth Strasko
   pic: Strasko
   position: PhD Student
@@ -65,26 +62,17 @@ people:
   pic: Steed
   position: Masters Student
   description: Conservation genomics of Seep Mudalia and Frosted Flatwoods Salamander
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
-
+  
 - name: Mia Adcock (alum)
   pic: Adcock
   position: Masters Student
   description: Population and Conservation Genomics of Brook Floater
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
-
+  
 - name: Raquel Gonzalez (alum)
   pic: Gonzalez
   position: Former USFWS Directorate Fellow and undergraduate researcher.
   description: Conservation genomics and genetics management of Alabama Pearlshell
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
-
+  
 - name: Ashantye' Williams (alum)
   pic: Ashantye
   position: Lab Manager
