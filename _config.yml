@@ -33,10 +33,7 @@ people:
   pic: Hannah
   position: Lab Manager
   description: Conservation genomics and hatchery program evaluation.
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
-
+  
 - name: Sam Donohoo
   pic: Donohoo
   position: PhD Student
@@ -105,9 +102,7 @@ people:
   pic: Wright
   position: Undergraduate Researcher (2019 REU Student)
   description: Conservation genomics of <i>Leptoxis compacta</i>.   
-  social:
-    - title: google-plus
-      url: https://nathanwhelan.com/#team
+  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
