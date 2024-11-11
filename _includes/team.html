@@ -1,40 +1,41 @@
-<!-- Team Section -->
+<div class="container">
+    <!-- Team Section -->
     <section id="team" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">People</h2>
-                    <h3 class="section-subheading">Lab members</h3>
-                </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">People</h2>
+                <h3 class="section-subheading">Lab members</h3>
             </div>
-            
-           
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                	<img src="img/lab-update.jpg" style="max-width: 100%"/>
-                    <p class="large text-muted">Swingle Hall, Auburn University, September 2022</p>
-                </div>
-            </div>
+        </div>
         
-            <div class="row">
-                {% for member in site.people %}
-                <div class="col-xs-4">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <img src="img/lab-update.jpg" style="max-width: 100%" />
+                <p class="large text-muted">Swingle Hall, Auburn University, September 2022</p>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for member in site.people %}
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p>{{ member.position }}</p>
                         <p>{{ member.description }}</p>
                         {% if member.social %}
-<ul class="list-inline social-buttons">
-    {% for network in member.social %}
-    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
-    {% endfor %}
-</ul>
-{% endif %}
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                     </div>
                 </div>
-                {% endfor %}
-            </div>
-            
+                {% if loop.index % 3 == 0 %}
+                </div><div class="row">  <!-- Close the current row every 3 items -->
+                {% endif %}
+            {% endfor %}
         </div>
     </section>
+</div>
