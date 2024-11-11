@@ -45,7 +45,31 @@ people:
     - title: google-plus
       url: https://scholar.google.com/citations?user=RuSqbd4AAAAJ&hl=en
 
-- name: Mia Adcock
+- name: Alicia Krause
+  pic: Krause
+  position: PhD Student
+  description: Fish Health and Mussel Genomics
+  social:
+    - title: google-plus
+      url: https://nathanwhelan.com/#team
+
+- name: Elizabeth Strasko
+  pic: Strasko
+  position: PhD Student
+  description: Freshwater gastropod systematics and population genomics
+  social:
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=3OseVDYAAAAJ&hl=en
+
+- name: Anna Steed
+  pic: Steed
+  position: Masters Student
+  description: Conservation genomics of Seep Mudalia and Frosted Flatwoods Salamander
+  social:
+    - title: google-plus
+      url: https://nathanwhelan.com/#team
+
+- name: Mia Adcock (alum)
   pic: Adcock
   position: Masters Student
   description: Population and Conservation Genomics of Brook Floater
