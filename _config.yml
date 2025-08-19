@@ -19,21 +19,14 @@ color:
 people:
 - name: Nathan Whelan
   pic: Whelan
-  position: Lab Director and Principal Investigator
+  position: Museum Director and Principal Investigator
   description: CV available <a href="/assests/Whelan_CV_website.pdf">here</a>.
   social:
-    - title: twitter
-      url: https://twitter.com/polarfire
     - title: google-plus
       url: https://scholar.google.com/citations?user=KQ9B0csAAAAJ&hl=en&oi=ao
     - title: github
       url: https://github.com/NathanWhelan/
 
-- name: Austin Hannah
-  pic: Hannah
-  position: Lab Manager
-  description: Conservation genomics and hatchery program evaluation.
-  
 - name: Sam Donohoo
   pic: Donohoo
   position: PhD Student
@@ -60,6 +53,11 @@ people:
   position: Masters Student
   description: Conservation genomics of Seep Mudalia and Frosted Flatwoods Salamander
   
+- name: Austin Hannah (alum)
+  pic: Hannah
+  position: Lab Manager (former member still with USFWS)
+  description: Conservation genomics and hatchery program evaluation.
+
 - name: Mia Adcock (alum)
   pic: Adcock
   position: Masters Student
@@ -115,8 +113,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 203 Swingle Hall
-  - line: Auburn, AL 36801
+  - line: 1315 Kinnear Road
+  - line: Columbus, OH 43212-1157
 
 # Build settings
 markdown: kramdown
