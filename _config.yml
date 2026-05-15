@@ -27,14 +27,6 @@ people:
     - title: github
       url: https://github.com/NathanWhelan/
 
-- name: Sam Donohoo
-  pic: Donohoo
-  position: PhD Student
-  description: Evolution and Systematics of Molluscs.
-  social:
-    - title: google-plus
-      url: https://scholar.google.com/citations?user=RuSqbd4AAAAJ&hl=en
-
 - name: Alicia Krause
   pic: Krause
   position: PhD Student
@@ -48,7 +40,15 @@ people:
     - title: google-plus
       url: https://scholar.google.com/citations?user=3OseVDYAAAAJ&hl=en
 
-- name: Anna Steed
+- name: Sam Donohoo (alum)
+  pic: Donohoo
+  position: PhD Student
+  description: Evolution and Systematics of Molluscs.
+  social:
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=RuSqbd4AAAAJ&hl=en
+
+- name: Anna Steed (alum)
   pic: Steed
   position: Masters Student
   description: Conservation genomics of Seep Mudalia and Frosted Flatwoods Salamander
