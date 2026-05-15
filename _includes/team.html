@@ -32,6 +32,18 @@
                         {% endif %}
                     </div>
                 </div>
+                {% assign mobile_remainder = forloop.index | modulo: 2 %}
+                {% assign tablet_remainder = forloop.index | modulo: 3 %}
+                {% assign desktop_remainder = forloop.index | modulo: 4 %}
+                {% if mobile_remainder == 0 %}
+                    <div class="clearfix visible-xs-block"></div>
+                {% endif %}
+                {% if tablet_remainder == 0 %}
+                    <div class="clearfix visible-sm-block"></div>
+                {% endif %}
+                {% if desktop_remainder == 0 %}
+                    <div class="clearfix visible-md-block visible-lg-block"></div>
+                {% endif %}
             {% endfor %}
         </div>
     </section>
