@@ -32,7 +32,7 @@
                         {% endif %}
                     </div>
                 </div>
-                {% if loop.index % 3 == 0 %}
+                {% if forloop.index % 3 == 0 %}
                 </div><div class="row">  <!-- Close the current row every 3 items -->
                 {% endif %}
             {% endfor %}
