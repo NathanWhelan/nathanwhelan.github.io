@@ -27,10 +27,23 @@ people:
     - title: github
       url: https://github.com/NathanWhelan/
 
+- name: Franchesca Ruiz
+  pic: Ruiz
+  position: PhD Student
+  description: Freshwater mollusk conservation and evolution
+  social:
+    - title: google-plus
+      url: https://scholar.google.com/citations?user=Qk8EKQMAAAAJ&hl
+      
+- name: Payton Carroll
+  pic: Carroll
+  position: Masters Student
+  description: Freshwater mollusk conservation and evolution
+  
 - name: Alicia Krause
   pic: Krause
   position: PhD Student
-  description: Fish Health and Mussel Genomics
+  description: Mussel and snail conservationg genomics and taxonomy
   
 - name: Elizabeth Strasko
   pic: Strasko
